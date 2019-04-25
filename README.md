@@ -1,1 +1,1 @@
-# linix
+# linux
