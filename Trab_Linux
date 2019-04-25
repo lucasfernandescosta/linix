@@ -40,7 +40,7 @@ wget https://gist.githubusercontent.com/leandersonandre/c8cba982f42262591be628e5
 
 
 Questão 12:
-	É selecionado tudo que tem balvenário no nome
+	É selecionado tudo que tem balenário no nome
 
 Questão 13:
 	não traz nenhum resultado pois ele filtra exatamente igual como a escrita (sensitive key), e as cidades começam com letra maiúscula.
